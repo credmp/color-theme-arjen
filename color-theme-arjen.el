@@ -1,9 +1,9 @@
-;;; color-theme-arjen.el --- My preferred color theme
+;;; color-theme-arjen.el --- Arjen Wiersma's preferred color theme
 
-;; Copyright (C) 2008  Arjen Wiersma
+;; Copyright (C) 2001 -- 2008  Arjen Wiersma
 
-;; Author: Arjen Wiersma <arjenw@Power-Quin.local>
-;; Keywords: tools
+;; Author: Arjen Wiersma <arjen@wiersma.org>
+;; Keywords: local
 
 ;; This file is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -22,7 +22,10 @@
 
 ;;; Commentary:
 
-;; 
+;; This was my first color theme. It has been hacked into shape over
+;; the last couple of years and I still use it every single day.
+;;
+;; Any comments/feedback are greatly appreciated
 
 ;;; Code:
 
