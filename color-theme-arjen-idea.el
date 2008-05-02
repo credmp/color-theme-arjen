@@ -93,7 +93,7 @@
      (fixed-pitch ((t (:family "courier"))))
      (flymake-errline ((t (:background "LightPink"))))
      (flymake-warnline ((t (:background "LightBlue2"))))
-     (font-lock-builtin-face ((t (:foreground "Orchid"))))
+     (font-lock-builtin-face ((t (:foreground "firebrick4" :weight bold))))
      (font-lock-comment-delimiter-face ((t (:foreground "DimGrey"))))
      (font-lock-comment-face ((t (:foreground "DimGrey"))))
      (font-lock-constant-face ((t (:foreground "DarkGoldenrod4"))))
