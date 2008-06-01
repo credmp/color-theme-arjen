@@ -97,7 +97,7 @@
      (font-lock-comment-delimiter-face ((t (:foreground "DimGrey"))))
      (font-lock-comment-face ((t (:foreground "DimGrey"))))
      (font-lock-constant-face ((t (:foreground "DarkGoldenrod4"))))
-     (font-lock-doc-face ((t (:foreground "RosyBrown"))))
+     (font-lock-doc-face ((t (:foreground "DimGrey"))))
      (font-lock-function-name-face ((t (:foreground "Blue1"))))
      (font-lock-keyword-face ((t (:foreground "MidnightBlue"))))
      (font-lock-negation-char-face ((t (nil))))
