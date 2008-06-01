@@ -121,6 +121,7 @@
      (font-lock-type-face ((t (:foreground "Green"))))
      (font-lock-variable-name-face ((t (:foreground "darkseagreen"))))
      (font-lock-warning-face ((t (:bold t :foreground "Pink"))))
+     (fringe ((t (:background "black"))))
      (qt-classes-face ((t (:foreground "Red"))))
      (gnus-cite-attribution-face ((t (nil))))
      (gnus-cite-face-1 ((t (:bold nil :foreground "deep sky blue"))))
