@@ -107,7 +107,9 @@
      (fl-string-face ((t (:foreground "green"))))
      (fl-type-face ((t (:foreground "yellow"))))
      (font-lock-builtin-face ((t (:foreground "LightSteelBlue"))))
-     (font-lock-comment-face ((t (:foreground "IndianRed"))))
+     ;; these used to be Indian Red...
+     (font-lock-comment-delimiter-face ((t (:foreground "#999988"))))
+     (font-lock-comment-face ((t (:foreground "#999988"))))
      (font-lock-constant-face ((t (:foreground "Aquamarine"))))
      (font-lock-doc-face ((t (:foreground "gray30"))))
      (font-lock-doc-string-face ((t (:foreground "DarkOrange"))))
