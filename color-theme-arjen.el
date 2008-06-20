@@ -246,7 +246,7 @@
      (widget-documentation-face ((t (:foreground "lime green"))))
      (widget-field-face ((t (:background "dim gray"))))
      (widget-inactive-face ((t (:foreground "light gray"))))
-     (which-func-face ((t (:foreground "yellow"))))
+     (which-func ((t (:foreground "yellow"))))
      (widget-single-line-field-face ((t (:background "dim gray"))))
      (woman-bold-face ((t (:bold t))))
      (woman-italic-face ((t (:foreground "beige"))))
