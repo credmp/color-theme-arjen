@@ -5,9 +5,12 @@ Emacs color theme called arjen
 
 Usage:
 - Put theme somewhere in your path (C-h v load-path)
-- Add to your .emacs.el following strings:
-;; Load color theme
-(require 'color-theme)
-(color-theme-initialize)
-(color-theme-arjen)
+- Add to your .emacs.el following strings
+``` lisp
+
+    ;; Load color theme
+    (require 'color-theme)
+    (color-theme-initialize)
+    (color-theme-arjen)
+
 - PROFIT!!!
