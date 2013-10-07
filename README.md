@@ -1,7 +1,7 @@
 color-theme-arjen
 =================
 
-Emacs color theme called arjen
+Emacs color theme called arjen for Emacs24
 
 Usage:
 - Put theme somewhere in your path (C-h v load-path)
