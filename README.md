@@ -14,3 +14,5 @@ Usage:
     (color-theme-arjen)
 
 - PROFIT!!!
+
+If you get error about unknown function color-theme, you need to install emacs-goodies
